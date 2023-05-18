@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Liteapp</string>
+    <string name="contenu">Contenu</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="titre">Titre</string>
+</resources>
